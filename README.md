@@ -53,6 +53,17 @@
 
 ---
 
+### 💡 Fun Facts
+
+- 🧩 I love solving logic puzzles  
+- 🎶 Music keeps me in the flow while coding  
+- 🏆 I thrive under hackathon pressure and love competition  
+- ✨ I enjoy making visually appealing, user-friendly web interfaces  
+- 📚 I love sharing knowledge and helping peers with coding doubts  
+- 🌐 I explore real-world problems and brainstorm tech-based solutions for them
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -61,11 +72,3 @@
   <a href="https://drive.google.com/file/d/11OHOrFo5Uq33uA-GI96Qc55ZYNz0ZkuU/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Resume-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=black" /></a>
 </p>
 
-### 💡 Fun Facts
-
-- 🧩 I love solving logic puzzles  
-- 🎶 Music keeps me in the flow while coding  
-- 🏆 I thrive under hackathon pressure and love competition  
-- ✨ I enjoy making visually appealing, user-friendly web interfaces  
-- 📚 I love sharing knowledge and helping peers with coding doubts  
-- 🌐 I explore real-world problems and brainstorm tech-based solutions for them  
