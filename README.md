@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <h3>Pursuing Bachelor of Engineering in Computer Science with Artificial Intelligence</h3>
-</p>
-
-<p align="center">
   🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 🏆 Hackathon Competitor  
 </p>
 
