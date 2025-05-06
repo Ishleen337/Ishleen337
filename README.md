@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishleen+Kaur+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
-
+<h3>Pursuing Bachelor of Engineering in Computer Science with Artificial Intelligence</h3>
 
 <p align="center">
   🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 🏆 Hackathon Competitor  
