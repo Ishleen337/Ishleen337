@@ -6,6 +6,8 @@
   🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 🏆 Hackathon Competitor  
 </p>
 
+<p align="center"><strong>Pursuing Bachelor of Engineering in Computer Science with Artificial Intelligence</strong></p>
+
 ---
 
 ### ✨ About Me
@@ -16,8 +18,8 @@
 - 💬 I love tech, teamwork, and turning real-world problems into working projects  
 - 🎯 Aiming to solve real-world problems with technology, and passionate about **building scalable, impactful applications**  
 - 🌐 Always looking to collaborate with like-minded people to create meaningful projects that can make a difference in society  
-- 📚 An advocate of continuous learning, always keeping up with the latest trends in the tech industry
-- 💼 **Strong leadership qualities** with experience in guiding teams, managing projects, and fostering collaboration in competitive environments like hackathons
+- 📚 An advocate of continuous learning, always keeping up with the latest trends in the tech industry  
+- 💼 **Strong leadership qualities** with experience in guiding teams, managing projects, and fostering collaboration in competitive environments like hackathons  
 
 ---
 
@@ -40,7 +42,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -48,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshleenKaur&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" />
   <br/>
+</p>
 
 ---
 
