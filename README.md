@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Ishleen Kaur 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishleen+Kaur+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
@@ -24,6 +26,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,10 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshleenKaur&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshleenKaur&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshleenKaur&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
