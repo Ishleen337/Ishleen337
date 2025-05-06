@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Ishleen Kaur 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCSoVInjICfWAtO/giphy.gif" width="120" alt="dancing icon" />
-</p>
 
 <p align="center">
   🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 🏆 Hackathon Competitor  
