@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishleen+Kaur+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 🏆 Hackathon Competitor  
 </p>
+
+<p align="center"><strong>Pursuing Bachelor of Engineering in Computer Science with Artificial Intelligence</strong></p>
 
 ---
 
@@ -17,8 +18,8 @@
 - 💬 I love tech, teamwork, and turning real-world problems into working projects  
 - 🎯 Aiming to solve real-world problems with technology, and passionate about **building scalable, impactful applications**  
 - 🌐 Always looking to collaborate with like-minded people to create meaningful projects that can make a difference in society  
-- 📚 An advocate of continuous learning, always keeping up with the latest trends in the tech industry
-- 💼 **Strong leadership qualities** with experience in guiding teams, managing projects, and fostering collaboration in competitive environments like hackathons
+- 📚 An advocate of continuous learning, always keeping up with the latest trends in the tech industry  
+- 💼 **Strong leadership qualities** with experience in guiding teams, managing projects, and fostering collaboration in competitive environments like hackathons  
 
 ---
 
@@ -29,6 +30,10 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=gray" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=blue" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -39,8 +44,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -49,6 +55,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshleenKaur&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" />
   <br/>
+</p>
+
+---
+
+### 💡 Fun Facts
+
+- 🧩 I love solving logic puzzles  
+- 🎶 Music keeps me in the flow while coding  
+- 🏆 I thrive under hackathon pressure and love competition  
+- ✨ I enjoy making visually appealing, user-friendly web interfaces  
+- 📚 I love sharing knowledge and helping peers with coding doubts  
+- 🌐 I explore real-world problems and brainstorm tech-based solutions for them  
 
 ---
 
