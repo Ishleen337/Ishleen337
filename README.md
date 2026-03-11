@@ -79,6 +79,24 @@
 <!-- Core CS -->
 <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/Supervised%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-4CAF50?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<!-- Supervised Learning Algorithms -->
+<img src="https://img.shields.io/badge/Linear%20Regression-FF9800?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-03A9F4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Decision%20Tree-8BC34A?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-4CAF50?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/KNN-9C27B0?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVM-673AB7?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<!-- Unsupervised Learning Algorithms -->
+<img src="https://img.shields.io/badge/K--Means%20Clustering-FF5722?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hierarchical%20Clustering-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBSCAN-795548?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCA-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
