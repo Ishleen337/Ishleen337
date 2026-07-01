@@ -116,6 +116,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ishleen-kaur-92b452316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ishleenk722@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/11OHOrFo5Uq33uA-GI96Qc55ZYNz0ZkuU/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Resume-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=black" /></a>
+  <a href="https://drive.google.com/file/d/1rKBkuwCNQtcGvqlj6gRCxSVhu6AKg7Hg/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FFB6C1?style=for-the-badge&logo=read-the-docs&logoColor=black" alt="Resume"/>
+</a>
 </p>
 
