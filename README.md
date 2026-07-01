@@ -100,14 +100,12 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshleenKaur&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats" />
   <br/>
 </p>
-
 ---
 
 ### 💡 Fun Facts
