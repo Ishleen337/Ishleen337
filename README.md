@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Full-Stack Developer | 🏆 Hackathon Competitor  
+  🎓 CS Engineering Student | 🧠 AI Enthusiast | 💻 Aspiring Software Engineer | 🏆 Hackathon Competitor  
 </p>
 
 <p align="center"><strong>Pursuing Bachelor of Engineering in Computer Science with Artificial Intelligence</strong></p>
